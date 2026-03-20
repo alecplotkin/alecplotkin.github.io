@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Alec Plotkin"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Candidate @ UNC-Chapel Hill \nOT and generative modeling for single-cell dynamics. \nFavorite cell type: CD8 T cells."
+  bio              : "PhD Candidate @ UNC-Chapel Hill.<br>OT and generative modeling for single-cell dynamics.<br>Favorite cell type: CD8 T cells."
   location         : "Chapel Hill, NC ➡️ Boston, MA"
   employer         : "University of North Carolina at Chapel Hill"
   uri              : # URL
